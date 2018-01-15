@@ -477,7 +477,7 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
         }
 
         if (mPocketPreference != null) {
-            int value = Settings.System.getInt(getContentResolver(), POCKET_JUDGE, 1);
+            int value = Settings.System.getInt(getContentResolver(), POCKET_JUDGE, 0);
             mPocketPreference.setChecked(value != 0);
         }
         // Update camera gesture #1 if it is available.
