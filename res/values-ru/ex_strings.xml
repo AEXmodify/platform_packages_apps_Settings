@@ -521,7 +521,7 @@
   <string name="pocket_judge_summary">Блокировать экран и кнопки, когда устройство находится в кармане</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Переключение между основным и цветом акцента</string>
-  <string name="theme_title">Color Engine</string>
+  <string name="theme_title">Внешний вид</string>
   <string name="theme_summary">Выберите различные цвета для вашей текущей темы</string>
   <string name="theme_accent_color">Цвет акцента</string>
   <string name="theme_primary_color">Основной/цвет фона</string>
